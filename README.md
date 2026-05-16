@@ -1,5 +1,5 @@
 # Simple-2000-Series-Ultimate-Vol.-17-Taisen-Bakudan-Poi-Poi-English-Translation-Patch
-An English translation patch for "Simple 2000 Series Ultimate Vol. 17: Taisen! Bakudan Poi Poi " [SLPM-62468] PS2 game developed by IMJ Entertainment/FLAT-OUT and published by D3Publisher.
+An English translation patch for "Simple 2000 Series Ultimate Vol. 17: Taisen! Bakudan Poi Poi" [SLPM-62468] PS2 game developed by IMJ Entertainment/FLAT-OUT and published by D3Publisher.
 
 **Patch is in xdelta format and was tested with MD5: 8f300ca07eebdc9dc3b4e0be2c2eb503 copy of the game.**
 
